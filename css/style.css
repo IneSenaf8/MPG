@@ -43,6 +43,32 @@ transition: background-color 0.3s; /* Agregamos una transición suave */
   color: white; /* Cambio de color del texto */
 }
 
+/* boton catalogo*/
+
+#btncatalogo {
+
+  padding: 10px 10px; /* espacio interno del botón */
+  border-radius: 20px; /* bordes redondeados */
+  cursor: pointer; /* Cambia el cursor a manito al pasar sobre el botón */
+  border: none;
+  float: center;
+  transition: background-color 0.3s; /* Agregamos una transición suave */
+  
+  }
+  
+  #btncatalogo:hover {
+    background-color: #BAB6E0; /* Color que cambia cuando pasas el cursor */
+    color: white; /* Cambio de color del texto */
+    float: center;
+  }
+  
+  #btncatalogo a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius: 20;
+    padding: 10px 10px;
+    }
+
 #presentacion{
 text-align: center;
 color: white;
