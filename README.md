@@ -1,4 +1,4 @@
-Este proyecto consiste en un pagina ecommerce para la comercializacion de agendas y cuadernos personalizados fue realizado con lenguae HTML CSS y JAVASCRIPT.
+Este proyecto consiste en un pagina para la comercializacion de agendas y cuadernos personalizados fue realizado con lenguae HTML CSS y JAVASCRIPT.
 
 La pagina cuenta con inicio donde se muestran los diferentes productos un carrusel cuya funcionalidad ademas de resultar atractiva es interactiva y muesstra diferentes productos a los que el cliente puede acceder.
 
