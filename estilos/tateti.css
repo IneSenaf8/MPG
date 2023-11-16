@@ -1,6 +1,6 @@
 /*tateti*/
 
-/* Estilos para el tablero y las celdas */
+/* Estilos para el tablero y las celdas 
 .board {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
