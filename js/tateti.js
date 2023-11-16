@@ -1,5 +1,5 @@
 //tateti//
-
+/*
 let currentPlayer = 'X';
 const cells = document.querySelectorAll('.cell');
 
@@ -43,4 +43,4 @@ function resetBoard() {
     cell.textContent = '';
   });
   currentPlayer = 'X';
-}
+}*/

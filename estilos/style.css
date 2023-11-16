@@ -23,6 +23,8 @@ body {
   font-size: 3em;
   cursor: pointer;
   background-color: rgb(107, 56, 131);
+  max-width: 300px;
+  max-height: 300px;
 }
 
 h2 {
